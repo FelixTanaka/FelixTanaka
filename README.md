@@ -6,14 +6,14 @@
 
 ## 🌐 Socials:
 <div align="left">
-  <a href="https://www.instagram.com/felixtanaka123">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.instagram.com/felixtanaka123" style="text-decoration: none; border: none;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border: none;" />
   </a>
-  <a href="https://www.linkedin.com/in/felixtanaka">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/felixtanaka" style="text-decoration: none; border: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border: none;" />
   </a>
-  <a href="mailto:felixtanaka720@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:felixtanaka720@gmail.com" style="text-decoration: none; border: none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border: none;" />
   </a>
 </div>
 
