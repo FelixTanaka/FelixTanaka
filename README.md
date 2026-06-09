@@ -15,7 +15,6 @@
 ---
 [![](https://komarev.com/ghpvc/?username=FelixTanaka&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📊 My GitHub Stats
-
-![Grafik Kontribusi](https://github-readme-activity-graph.vercel.app/graph?username=FelixTanaka&theme=react-dark&hide_border=true)
+### 🕹️ Status: Playing Pac-Man
+![Pacman](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZzZqZzZqZzZqZzZqZzZqZzZqZzZqZzZqZzZqZzZqZzZqJmN0PWc&cid=ecf05e47qgz6qgz6qgz6qgz6qgz6qgz6qgz6qgz6qgz6qgz6qgz6&rid=giphy.gif&ct=g)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
