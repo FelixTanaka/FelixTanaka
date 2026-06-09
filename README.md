@@ -15,4 +15,7 @@
 ---
 [![](https://komarev.com/ghpvc/?username=FelixTanaka&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### 📊 My GitHub Stats
+
+![Grafik Kontribusi](https://github-readme-activity-graph.vercel.app/graph?username=FelixTanaka&theme=react-dark&hide_border=true)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
